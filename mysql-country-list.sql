@@ -61,7 +61,7 @@ INSERT INTO `apps_countries` VALUES (null, 'CR', 'Costa Rica');
 INSERT INTO `apps_countries` VALUES (null, 'HR', 'Croatia (Hrvatska)');
 INSERT INTO `apps_countries` VALUES (null, 'CU', 'Cuba');
 INSERT INTO `apps_countries` VALUES (null, 'CY', 'Cyprus');
-INSERT INTO `apps_countries` VALUES (null, 'CZ', 'Czech Republic');
+INSERT INTO `apps_countries` VALUES (null, 'CZ', 'Czechia');
 INSERT INTO `apps_countries` VALUES (null, 'DK', 'Denmark');
 INSERT INTO `apps_countries` VALUES (null, 'DJ', 'Djibouti');
 INSERT INTO `apps_countries` VALUES (null, 'DM', 'Dominica');
